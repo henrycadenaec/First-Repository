@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "postcss-lit": "^1.1.0",
     "stylelint": "^15.6.2",
     "stylelint-config-standard": "^33.0.0"
   }
